@@ -17,8 +17,8 @@
             "toc": "LU"
         },
         {
-            "lat": 0.0,
-            "lon": 0.0,
+            "lat": 43.3032794,
+            "lon": 5.380142,
             "tiploc": "MRSLSTC",
             "name": "Marseille St Charles",
             "crs": "MSC",
@@ -1761,12 +1761,12 @@
             "lon": -0.15242448914119103
         }, 
         {
-            "lat": 0.0, 
+            "lat": 50.9015, 
             "tiploc": "CALAFGV", 
             "name": "Calais Frethun", 
             "crs": "FRH", 
             "toc": "ES", 
-            "lon": 0.0
+            "lon": 1.81152
         }, 
         {
             "lat": 53.3918144893738, 
@@ -3969,12 +3969,12 @@
             "lon": 0.6130509716152298
         }, 
         {
-            "lat": 0.0, 
+            "lat": 48.8809, 
             "tiploc": "PARISND", 
             "name": "Paris Nord", 
             "crs": "PBN", 
             "toc": "ES", 
-            "lon": 0.0
+            "lon": 2.3553
         }, 
         {
             "lat": 51.42447885135472, 
@@ -10377,12 +10377,12 @@
             "lon": -2.8795935103797943
         }, 
         {
-            "lat": 0.0, 
+            "lat": 48.869722, 
             "tiploc": "MARNELV", 
             "name": "Marne La Vallee", 
             "crs": "MCK", 
             "toc": "ES", 
-            "lon": 0.0
+            "lon": 2.782778
         }, 
         {
             "lat": 50.883686444416945, 
@@ -10825,12 +10825,12 @@
             "lon": -0.03753668702955639
         }, 
         {
-            "lat": 0.0, 
+            "lat": 43.9419, 
             "tiploc": "AVIGCMT", 
             "name": "Avignon", 
             "crs": "AVI", 
             "toc": "ES", 
-            "lon": 0.0
+            "lon": 4.8047
         }, 
         {
             "lat": 51.49525563890046, 
@@ -15297,12 +15297,12 @@
             "lon": -1.6517186245381683
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.978056, 
             "tiploc": "HOEKVHL", 
             "name": "Hoek Van Holland", 
             "crs": "HVH", 
             "toc": "ZF", 
-            "lon": 0.0
+            "lon": 4.128333
         }, 
         {
             "lat": 0.0, 
@@ -16529,12 +16529,12 @@
             "lon": -2.3912118511199556
         }, 
         {
-            "lat": 0.0, 
+            "lat": 45.6168981, 
             "tiploc": "BORGSTM", 
             "name": "Bourg St Maurice", 
             "crs": "XIB", 
             "toc": "ES", 
-            "lon": 0.0
+            "lon": 6.7734105
         }, 
         {
             "lat": 53.958685244229095, 
@@ -19145,12 +19145,12 @@
             "lon": -2.07900209659588
         }, 
         {
-            "lat": 0.0, 
+            "lat": 50.8357532, 
             "tiploc": "BRUXMID", 
             "name": "Brussels Midi", 
             "crs": "BXS", 
             "toc": "ES", 
-            "lon": 0.0
+            "lon": 4.3357158
         }, 
         {
             "lat": 51.90515720106157, 
@@ -23321,12 +23321,12 @@
             "lon": 0.1789360832876712
         }, 
         {
-            "lat": 0.0, 
+            "lat": 50.6394444, 
             "tiploc": "LILLE", 
             "name": "Lille Europe", 
             "crs": "LIU", 
             "toc": "ES", 
-            "lon": 0.0
+            "lon": 3.0763889
         }, 
         {
             "lat": 0.0, 
