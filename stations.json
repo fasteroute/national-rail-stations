@@ -33,20 +33,20 @@
             "toc": "WR"
         },
         {
-            "lat": 0.0,
-            "lon": 0.0,
+            "lat": 51.51504,
+            "lon": -0.07236,
             "tiploc": "ALDGEST",
             "name": "Aldgate East",
             "crs": "ZAE",
             "toc": "LU"
         },
         {
-            "lat": 0.0, 
+            "lat": 51.4592, 
             "tiploc": "EPUTNEY", 
             "name": "East Putney", 
             "crs": "ZEP", 
             "toc": "LU", 
-            "lon": 0.0
+            "lon": -0.21098
         }, 
         {
             "lat": 55.8404, 
@@ -57,20 +57,20 @@
             "lon": -3.0468
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.5527, 
             "tiploc": "HLWYRLT", 
             "name": "Holloway Road", 
             "crs": "ZHR", 
             "toc": "LU", 
-            "lon": 0.0
+            "lon": -0.11322
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.5166744, 
             "tiploc": "PADTLUL", 
             "name": "Paddington (Bakerloo Line)", 
             "crs": "ZPN", 
             "toc": "LU", 
-            "lon": 0.0
+            "lon": -0.1769328
         },
         {
             "lat": 0.0,
@@ -2881,12 +2881,12 @@
             "lon": 0.8140278287738434
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.49031, 
             "tiploc": "BRNSTLT", 
             "name": "Barons Court Underground", 
             "crs": "ZBC", 
             "toc": "LT", 
-            "lon": 0.0
+            "lon": -0.2134
         }, 
         {
             "lat": 51.016533309252374, 
@@ -3081,12 +3081,12 @@
             "lon": 0.0
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.5393, 
             "tiploc": "BARKGLT", 
             "name": "Barking Underground", 
             "crs": "ZBK", 
             "toc": "LT", 
-            "lon": 0.0
+            "lon": 0.0817
         }, 
         {
             "lat": 54.95954259529612, 
@@ -4401,12 +4401,12 @@
             "lon": -0.1466555103053037
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.5101, 
             "tiploc": "PICDYCR", 
             "name": "Piccadilly Circus Underground", 
             "crs": "ZPC", 
             "toc": "LT", 
-            "lon": 0.0
+            "lon": -0.134
         }, 
         {
             "lat": 52.89678930342233, 
@@ -5489,12 +5489,12 @@
             "lon": -5.024737359866029
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.5031428, 
             "tiploc": "WATRLLT", 
             "name": "Waterloo Underground", 
             "crs": "ZWA", 
             "toc": "LT", 
-            "lon": 0.0
+            "lon": -0.1143696
         }, 
         {
             "lat": 51.55662520415751, 
@@ -6313,12 +6313,12 @@
             "lon": -0.6886619648913967
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.5010221, 
             "tiploc": "KNSGHST", 
             "name": "Kensington High St Underground", 
             "crs": "ZHS", 
             "toc": "LT", 
-            "lon": 0.0
+            "lon": -0.1927364
         }, 
         {
             "lat": 52.64783023613651, 
@@ -6705,12 +6705,12 @@
             "lon": 1.2094527769953805
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.55902, 
             "tiploc": "UPMNLT", 
             "name": "Upminster Underground", 
             "crs": "ZUM", 
             "toc": "LT", 
-            "lon": 0.0
+            "lon": 0.25091
         }, 
         {
             "lat": 53.23821850589172, 
@@ -7985,12 +7985,12 @@
             "lon": -1.6229524740761403
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.4921183, 
             "tiploc": "ELCT", 
             "name": "Earl's Court Underground", 
             "crs": "ZET", 
             "toc": "LT", 
-            "lon": 0.0
+            "lon": -0.193179
         }, 
         {
             "lat": 55.931204970726995, 
@@ -8377,12 +8377,12 @@
             "lon": -1.1694488357772803
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.5756402, 
             "tiploc": "ILFENBP", 
             "name": "Newbury Park Underground", 
             "crs": "ZNP", 
             "toc": "LT", 
-            "lon": 0.0
+            "lon": 0.0901747
         }, 
         {
             "lat": 51.3469291320605, 
@@ -10089,12 +10089,12 @@
             "lon": -3.481617127894739
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.54409, 
             "tiploc": "DGNHELT", 
             "name": "Dagenham East Underground", 
             "crs": "ZDE", 
             "toc": "LT", 
-            "lon": 0.0
+            "lon": 0.16604
         }, 
         {
             "lat": 51.149403004440025, 
@@ -10129,12 +10129,12 @@
             "lon": -0.08142601994463783
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.4951816, 
             "tiploc": "TRNHMGN", 
             "name": "Turnham Green Underground", 
             "crs": "ZTG", 
             "toc": "LT", 
-            "lon": 0.0
+            "lon": -0.2545245
         }, 
         {
             "lat": 55.94221187008438, 
@@ -11889,12 +11889,12 @@
             "lon": -4.848381219898441
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.521387, 
             "tiploc": "BRBCNLT", 
             "name": "Barbican Underground", 
             "crs": "ZBB", 
             "toc": "LT", 
-            "lon": 0.0
+            "lon": -0.0969742
         }, 
         {
             "lat": 53.117355780844285, 
@@ -14041,12 +14041,12 @@
             "lon": -2.9240605749460955
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.64705, 
             "tiploc": "CRXLEY", 
             "name": "Croxley Underground", 
             "crs": "ZCO", 
             "toc": "LT", 
-            "lon": 0.0
+            "lon": -0.4417
         }, 
         {
             "lat": 52.61215749935578, 
@@ -16161,12 +16161,12 @@
             "lon": -2.6031265072669565
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.4935053, 
             "tiploc": "HAMDLUL", 
             "name": "Hammersmith Underground", 
             "crs": "ZHA", 
             "toc": "LT", 
-            "lon": 0.0
+            "lon": -0.2248937
         }, 
         {
             "lat": 51.939507321913176, 
@@ -19121,12 +19121,12 @@
             "lon": -3.5275481629386936
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.5231577, 
             "tiploc": "LONDNBS", 
             "name": "Baker Street Underground", 
             "crs": "ZBS", 
             "toc": "LT", 
-            "lon": 0.0
+            "lon": -0.156863
         }, 
         {
             "lat": 51.50407422546189, 
@@ -21513,12 +21513,12 @@
             "lon": 0.32092084452941283
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.494588, 
             "tiploc": "EPHT", 
             "name": "Elephant & Castle Underground", 
             "crs": "ZEL", 
             "toc": "LT", 
-            "lon": 0.0
+            "lon": -0.0994846
         }, 
         {
             "lat": 51.19733568117289, 
@@ -23681,12 +23681,12 @@
             "lon": 0.016992641272135154
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.5100491, 
             "tiploc": "TOWERHL", 
             "name": "Tower Hill Underground", 
             "crs": "ZTH", 
             "toc": "LT", 
-            "lon": 0.0
+            "lon": -0.0765083
         }, 
         {
             "lat": 57.27977120229918, 
