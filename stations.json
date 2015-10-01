@@ -1,8 +1,8 @@
 {
     "locations": [
         {
-            "lat": 0.0,
-            "lon": 0.0,
+            "lat": 52.2427,
+            "lon": -0.907905,
             "tiploc": "NMPTNNJ",
             "name": "Northampton North Junction",
             "crs": "ZNJ",
@@ -113,12 +113,12 @@
             "lon": 1.0332947132577845
         }, 
         {
-            "lat": 0.0, 
+            "lat": 54.9575, 
             "tiploc": "FELL", 
             "name": "Fellgate (T & W Metro)", 
             "crs": "FEG", 
             "toc": "TW", 
-            "lon": 0.0
+            "lon": -1.4856
         }, 
         {
             "lat": 51.066063124425554, 
@@ -1105,12 +1105,12 @@
             "lon": -3.4666845504363732
         }, 
         {
-            "lat": 0.0, 
+            "lat": 54.9028, 
             "tiploc": "UNIV", 
             "name": "University (T & W Metro)", 
             "crs": "UNV", 
             "toc": "TW", 
-            "lon": 0.0
+            "lon": -1.3921
         }, 
         {
             "lat": 55.853802271402365, 
@@ -3465,12 +3465,12 @@
             "lon": -3.2843391469486276
         }, 
         {
-            "lat": 0.0, 
+            "lat": 54.9527, 
             "tiploc": "PELAWTW", 
             "name": "Pelaw (T & W Metro)", 
             "crs": "PAW", 
             "toc": "TW", 
-            "lon": 0.0
+            "lon":  -1.5414
         }, 
         {
             "lat": 0.0, 
@@ -4369,12 +4369,12 @@
             "lon": -1.8251020610348874
         }, 
         {
-            "lat": 0.0, 
+            "lat": 54.9182, 
             "tiploc": "STDI", 
             "name": "Stadium of Light (T & W Metro)", 
             "crs": "STI", 
             "toc": "TW", 
-            "lon": 0.0
+            "lon": -1.3829
         }, 
         {
             "lat": 53.297197164029875, 
@@ -5441,12 +5441,12 @@
             "lon": -6.19848
         }, 
         {
-            "lat": 0.0, 
+            "lat": 54.9128, 
             "tiploc": "PALL", 
             "name": "Pallion (T & W Metro)", 
             "crs": "PAI", 
             "toc": "TW", 
-            "lon": 0.0
+            "lon": -1.4177
         }, 
         {
             "lat": 50.84672010063687, 
@@ -6721,12 +6721,12 @@
             "lon": -1.420115849660338
         }, 
         {
-            "lat": 0.0, 
+            "lat": 54.9516, 
             "tiploc": "HEWOMTR", 
             "name": "Heworth (T & W Metro)", 
             "crs": "HEZ", 
             "toc": "TW", 
-            "lon": 0.0
+            "lon": -1.5558
         }, 
         {
             "lat": 53.293381254894896, 
@@ -8465,12 +8465,12 @@
             "lon": -0.40967969173583857
         }, 
         {
-            "lat": 0.0, 
+            "lat": 54.9743, 
             "tiploc": "SNTJ", 
             "name": "St James (T & W Metro)", 
             "crs": "SJN", 
             "toc": "TW", 
-            "lon": 0.0
+            "lon": -1.6208
         }, 
         {
             "lat": 52.03627614443659, 
@@ -8769,12 +8769,12 @@
             "lon": -2.360855779362194
         }, 
         {
-            "lat": 0.0, 
+            "lat": 55.0173, 
             "tiploc": "TYNEMTH", 
             "name": "Tynemouth (T & W Metro)", 
             "crs": "TYP", 
             "toc": "TW", 
-            "lon": 0.0
+            "lon": -1.4282
         }, 
         {
             "lat": 53.66755845047332, 
@@ -14721,12 +14721,12 @@
             "lon": 0.0
         }, 
         {
-            "lat": 0.0, 
+            "lat": 55.014, 
             "tiploc": "BENTMET", 
             "name": "Benton (T & W Metro)", 
             "crs": "BNO", 
             "toc": "TW", 
-            "lon": 0.0
+            "lon": -1.5674
         }, 
         {
             "lat": 51.44134635932124, 
@@ -19169,12 +19169,12 @@
             "lon": -0.13693375120169995
         }, 
         {
-            "lat": 0.0, 
+            "lat": 54.9686, 
             "tiploc": "NWCSTLL", 
             "name": "Newcastle Central Metro", 
             "crs": "NCZ", 
             "toc": "TW", 
-            "lon": 0.0
+            "lon": -1.6171
         }, 
         {
             "lat": 0.0, 
@@ -20201,12 +20201,12 @@
             "lon": -2.394336306348908
         }, 
         {
-            "lat": 0.0, 
+            "lat": 54.974, 
             "tiploc": "MANOMET", 
             "name": "Manors (T & W Metro)", 
             "crs": "MRM", 
             "toc": "TW", 
-            "lon": 0.0
+            "lon": -1.6048
         }, 
         {
             "lat": 54.43611152004637, 
@@ -20961,12 +20961,12 @@
             "lon": 0.0
         }, 
         {
-            "lat": 0.0, 
+            "lat": 55.006, 
             "tiploc": "SGOS", 
             "name": "South Gosforth (T & W Metro)", 
             "crs": "SGH", 
             "toc": "TW", 
-            "lon": 0.0
+            "lon": -1.608
         }, 
         {
             "lat": 52.54571162924244, 
@@ -21001,12 +21001,12 @@
             "lon": 0.1906334307858113
         }, 
         {
-            "lat": 0.0, 
+            "lat": 54.9065,
             "tiploc": "MLLF", 
             "name": "Millfield (T & W Metro)", 
             "crs": "MIF", 
             "toc": "TW", 
-            "lon": 0.0
+            "lon": -1.4009
         }, 
         {
             "lat": 51.0672088909676, 
@@ -22433,12 +22433,12 @@
             "lon": -2.9939065375996434
         }, 
         {
-            "lat": 0.0, 
+            "lat": 54.9041, 
             "tiploc": "STHH", 
             "name": "South Hylton (T & W Metro)", 
             "crs": "SHZ", 
             "toc": "TW", 
-            "lon": 0.0
+            "lon":  -1.4481
         }, 
         {
             "lat": 57.51784696267644, 
