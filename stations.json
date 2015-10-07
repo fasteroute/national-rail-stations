@@ -1,8 +1,8 @@
 {
     "locations": [
         {
-            "lat": 0.0,
-            "lon": 0.0,
+            "lat": 52.2427,
+            "lon": -0.907905,
             "tiploc": "NMPTNNJ",
             "name": "Northampton North Junction",
             "crs": "ZNJ",
@@ -17,8 +17,8 @@
             "toc": "LU"
         },
         {
-            "lat": 0.0,
-            "lon": 0.0,
+            "lat": 43.3032794,
+            "lon": 5.380142,
             "tiploc": "MRSLSTC",
             "name": "Marseille St Charles",
             "crs": "MSC",
@@ -33,20 +33,20 @@
             "toc": "WR"
         },
         {
-            "lat": 0.0,
-            "lon": 0.0,
+            "lat": 51.51504,
+            "lon": -0.07236,
             "tiploc": "ALDGEST",
             "name": "Aldgate East",
             "crs": "ZAE",
             "toc": "LU"
         },
         {
-            "lat": 0.0, 
+            "lat": 51.4592, 
             "tiploc": "EPUTNEY", 
             "name": "East Putney", 
             "crs": "ZEP", 
             "toc": "LU", 
-            "lon": 0.0
+            "lon": -0.21098
         }, 
         {
             "lat": 55.8404, 
@@ -57,20 +57,20 @@
             "lon": -3.0468
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.5527, 
             "tiploc": "HLWYRLT", 
             "name": "Holloway Road", 
             "crs": "ZHR", 
             "toc": "LU", 
-            "lon": 0.0
+            "lon": -0.11322
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.5166744, 
             "tiploc": "PADTLUL", 
             "name": "Paddington (Bakerloo Line)", 
             "crs": "ZPN", 
             "toc": "LU", 
-            "lon": 0.0
+            "lon": -0.1769328
         },
         {
             "lat": 0.0,
@@ -113,12 +113,12 @@
             "lon": 1.0332947132577845
         }, 
         {
-            "lat": 0.0, 
+            "lat": 54.9575, 
             "tiploc": "FELL", 
             "name": "Fellgate (T & W Metro)", 
             "crs": "FEG", 
             "toc": "TW", 
-            "lon": 0.0
+            "lon": -1.4856
         }, 
         {
             "lat": 51.066063124425554, 
@@ -1105,12 +1105,12 @@
             "lon": -3.4666845504363732
         }, 
         {
-            "lat": 0.0, 
+            "lat": 54.9028, 
             "tiploc": "UNIV", 
             "name": "University (T & W Metro)", 
             "crs": "UNV", 
             "toc": "TW", 
-            "lon": 0.0
+            "lon": -1.3921
         }, 
         {
             "lat": 55.853802271402365, 
@@ -1761,12 +1761,12 @@
             "lon": -0.15242448914119103
         }, 
         {
-            "lat": 0.0, 
+            "lat": 50.9015, 
             "tiploc": "CALAFGV", 
             "name": "Calais Frethun", 
             "crs": "FRH", 
             "toc": "ES", 
-            "lon": 0.0
+            "lon": 1.81152
         }, 
         {
             "lat": 53.3918144893738, 
@@ -2881,12 +2881,12 @@
             "lon": 0.8140278287738434
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.49031, 
             "tiploc": "BRNSTLT", 
             "name": "Barons Court Underground", 
             "crs": "ZBC", 
             "toc": "LT", 
-            "lon": 0.0
+            "lon": -0.2134
         }, 
         {
             "lat": 51.016533309252374, 
@@ -3081,12 +3081,12 @@
             "lon": 0.0
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.5393, 
             "tiploc": "BARKGLT", 
             "name": "Barking Underground", 
             "crs": "ZBK", 
             "toc": "LT", 
-            "lon": 0.0
+            "lon": 0.0817
         }, 
         {
             "lat": 54.95954259529612, 
@@ -3465,12 +3465,12 @@
             "lon": -3.2843391469486276
         }, 
         {
-            "lat": 0.0, 
+            "lat": 54.9527, 
             "tiploc": "PELAWTW", 
             "name": "Pelaw (T & W Metro)", 
             "crs": "PAW", 
             "toc": "TW", 
-            "lon": 0.0
+            "lon":  -1.5414
         }, 
         {
             "lat": 0.0, 
@@ -3969,12 +3969,12 @@
             "lon": 0.6130509716152298
         }, 
         {
-            "lat": 0.0, 
+            "lat": 48.8809, 
             "tiploc": "PARISND", 
             "name": "Paris Nord", 
             "crs": "PBN", 
             "toc": "ES", 
-            "lon": 0.0
+            "lon": 2.3553
         }, 
         {
             "lat": 51.42447885135472, 
@@ -4369,12 +4369,12 @@
             "lon": -1.8251020610348874
         }, 
         {
-            "lat": 0.0, 
+            "lat": 54.9182, 
             "tiploc": "STDI", 
             "name": "Stadium of Light (T & W Metro)", 
             "crs": "STI", 
             "toc": "TW", 
-            "lon": 0.0
+            "lon": -1.3829
         }, 
         {
             "lat": 53.297197164029875, 
@@ -4401,12 +4401,12 @@
             "lon": -0.1466555103053037
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.5101, 
             "tiploc": "PICDYCR", 
             "name": "Piccadilly Circus Underground", 
             "crs": "ZPC", 
             "toc": "LT", 
-            "lon": 0.0
+            "lon": -0.134
         }, 
         {
             "lat": 52.89678930342233, 
@@ -5441,12 +5441,12 @@
             "lon": -6.19848
         }, 
         {
-            "lat": 0.0, 
+            "lat": 54.9128, 
             "tiploc": "PALL", 
             "name": "Pallion (T & W Metro)", 
             "crs": "PAI", 
             "toc": "TW", 
-            "lon": 0.0
+            "lon": -1.4177
         }, 
         {
             "lat": 50.84672010063687, 
@@ -5489,12 +5489,12 @@
             "lon": -5.024737359866029
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.5031428, 
             "tiploc": "WATRLLT", 
             "name": "Waterloo Underground", 
             "crs": "ZWA", 
             "toc": "LT", 
-            "lon": 0.0
+            "lon": -0.1143696
         }, 
         {
             "lat": 51.55662520415751, 
@@ -6313,12 +6313,12 @@
             "lon": -0.6886619648913967
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.5010221, 
             "tiploc": "KNSGHST", 
             "name": "Kensington High St Underground", 
             "crs": "ZHS", 
             "toc": "LT", 
-            "lon": 0.0
+            "lon": -0.1927364
         }, 
         {
             "lat": 52.64783023613651, 
@@ -6705,12 +6705,12 @@
             "lon": 1.2094527769953805
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.55902, 
             "tiploc": "UPMNLT", 
             "name": "Upminster Underground", 
             "crs": "ZUM", 
             "toc": "LT", 
-            "lon": 0.0
+            "lon": 0.25091
         }, 
         {
             "lat": 53.23821850589172, 
@@ -6721,12 +6721,12 @@
             "lon": -1.420115849660338
         }, 
         {
-            "lat": 0.0, 
+            "lat": 54.9516, 
             "tiploc": "HEWOMTR", 
             "name": "Heworth (T & W Metro)", 
             "crs": "HEZ", 
             "toc": "TW", 
-            "lon": 0.0
+            "lon": -1.5558
         }, 
         {
             "lat": 53.293381254894896, 
@@ -7985,12 +7985,12 @@
             "lon": -1.6229524740761403
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.4921183, 
             "tiploc": "ELCT", 
             "name": "Earl's Court Underground", 
             "crs": "ZET", 
             "toc": "LT", 
-            "lon": 0.0
+            "lon": -0.193179
         }, 
         {
             "lat": 55.931204970726995, 
@@ -8377,12 +8377,12 @@
             "lon": -1.1694488357772803
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.5756402, 
             "tiploc": "ILFENBP", 
             "name": "Newbury Park Underground", 
             "crs": "ZNP", 
             "toc": "LT", 
-            "lon": 0.0
+            "lon": 0.0901747
         }, 
         {
             "lat": 51.3469291320605, 
@@ -8465,12 +8465,12 @@
             "lon": -0.40967969173583857
         }, 
         {
-            "lat": 0.0, 
+            "lat": 54.9743, 
             "tiploc": "SNTJ", 
             "name": "St James (T & W Metro)", 
             "crs": "SJN", 
             "toc": "TW", 
-            "lon": 0.0
+            "lon": -1.6208
         }, 
         {
             "lat": 52.03627614443659, 
@@ -8769,12 +8769,12 @@
             "lon": -2.360855779362194
         }, 
         {
-            "lat": 0.0, 
+            "lat": 55.0173, 
             "tiploc": "TYNEMTH", 
             "name": "Tynemouth (T & W Metro)", 
             "crs": "TYP", 
             "toc": "TW", 
-            "lon": 0.0
+            "lon": -1.4282
         }, 
         {
             "lat": 53.66755845047332, 
@@ -10089,12 +10089,12 @@
             "lon": -3.481617127894739
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.54409, 
             "tiploc": "DGNHELT", 
             "name": "Dagenham East Underground", 
             "crs": "ZDE", 
             "toc": "LT", 
-            "lon": 0.0
+            "lon": 0.16604
         }, 
         {
             "lat": 51.149403004440025, 
@@ -10129,12 +10129,12 @@
             "lon": -0.08142601994463783
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.4951816, 
             "tiploc": "TRNHMGN", 
             "name": "Turnham Green Underground", 
             "crs": "ZTG", 
             "toc": "LT", 
-            "lon": 0.0
+            "lon": -0.2545245
         }, 
         {
             "lat": 55.94221187008438, 
@@ -10377,12 +10377,12 @@
             "lon": -2.8795935103797943
         }, 
         {
-            "lat": 0.0, 
+            "lat": 48.869722, 
             "tiploc": "MARNELV", 
             "name": "Marne La Vallee", 
             "crs": "MCK", 
             "toc": "ES", 
-            "lon": 0.0
+            "lon": 2.782778
         }, 
         {
             "lat": 50.883686444416945, 
@@ -10825,12 +10825,12 @@
             "lon": -0.03753668702955639
         }, 
         {
-            "lat": 0.0, 
+            "lat": 43.9419, 
             "tiploc": "AVIGCMT", 
             "name": "Avignon", 
             "crs": "AVI", 
             "toc": "ES", 
-            "lon": 0.0
+            "lon": 4.8047
         }, 
         {
             "lat": 51.49525563890046, 
@@ -11889,12 +11889,12 @@
             "lon": -4.848381219898441
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.521387, 
             "tiploc": "BRBCNLT", 
             "name": "Barbican Underground", 
             "crs": "ZBB", 
             "toc": "LT", 
-            "lon": 0.0
+            "lon": -0.0969742
         }, 
         {
             "lat": 53.117355780844285, 
@@ -14041,12 +14041,12 @@
             "lon": -2.9240605749460955
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.64705, 
             "tiploc": "CRXLEY", 
             "name": "Croxley Underground", 
             "crs": "ZCO", 
             "toc": "LT", 
-            "lon": 0.0
+            "lon": -0.4417
         }, 
         {
             "lat": 52.61215749935578, 
@@ -14721,12 +14721,12 @@
             "lon": 0.0
         }, 
         {
-            "lat": 0.0, 
+            "lat": 55.014, 
             "tiploc": "BENTMET", 
             "name": "Benton (T & W Metro)", 
             "crs": "BNO", 
             "toc": "TW", 
-            "lon": 0.0
+            "lon": -1.5674
         }, 
         {
             "lat": 51.44134635932124, 
@@ -15297,12 +15297,12 @@
             "lon": -1.6517186245381683
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.978056, 
             "tiploc": "HOEKVHL", 
             "name": "Hoek Van Holland", 
             "crs": "HVH", 
             "toc": "ZF", 
-            "lon": 0.0
+            "lon": 4.128333
         }, 
         {
             "lat": 0.0, 
@@ -16161,12 +16161,12 @@
             "lon": -2.6031265072669565
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.4935053, 
             "tiploc": "HAMDLUL", 
             "name": "Hammersmith Underground", 
             "crs": "ZHA", 
             "toc": "LT", 
-            "lon": 0.0
+            "lon": -0.2248937
         }, 
         {
             "lat": 51.939507321913176, 
@@ -16529,12 +16529,12 @@
             "lon": -2.3912118511199556
         }, 
         {
-            "lat": 0.0, 
+            "lat": 45.6168981, 
             "tiploc": "BORGSTM", 
             "name": "Bourg St Maurice", 
             "crs": "XIB", 
             "toc": "ES", 
-            "lon": 0.0
+            "lon": 6.7734105
         }, 
         {
             "lat": 53.958685244229095, 
@@ -19121,12 +19121,12 @@
             "lon": -3.5275481629386936
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.5231577, 
             "tiploc": "LONDNBS", 
             "name": "Baker Street Underground", 
             "crs": "ZBS", 
             "toc": "LT", 
-            "lon": 0.0
+            "lon": -0.156863
         }, 
         {
             "lat": 51.50407422546189, 
@@ -19145,12 +19145,12 @@
             "lon": -2.07900209659588
         }, 
         {
-            "lat": 0.0, 
+            "lat": 50.8357532, 
             "tiploc": "BRUXMID", 
             "name": "Brussels Midi", 
             "crs": "BXS", 
             "toc": "ES", 
-            "lon": 0.0
+            "lon": 4.3357158
         }, 
         {
             "lat": 51.90515720106157, 
@@ -19169,12 +19169,12 @@
             "lon": -0.13693375120169995
         }, 
         {
-            "lat": 0.0, 
+            "lat": 54.9686, 
             "tiploc": "NWCSTLL", 
             "name": "Newcastle Central Metro", 
             "crs": "NCZ", 
             "toc": "TW", 
-            "lon": 0.0
+            "lon": -1.6171
         }, 
         {
             "lat": 0.0, 
@@ -20201,12 +20201,12 @@
             "lon": -2.394336306348908
         }, 
         {
-            "lat": 0.0, 
+            "lat": 54.974, 
             "tiploc": "MANOMET", 
             "name": "Manors (T & W Metro)", 
             "crs": "MRM", 
             "toc": "TW", 
-            "lon": 0.0
+            "lon": -1.6048
         }, 
         {
             "lat": 54.43611152004637, 
@@ -20961,12 +20961,12 @@
             "lon": 0.0
         }, 
         {
-            "lat": 0.0, 
+            "lat": 55.006, 
             "tiploc": "SGOS", 
             "name": "South Gosforth (T & W Metro)", 
             "crs": "SGH", 
             "toc": "TW", 
-            "lon": 0.0
+            "lon": -1.608
         }, 
         {
             "lat": 52.54571162924244, 
@@ -21001,12 +21001,12 @@
             "lon": 0.1906334307858113
         }, 
         {
-            "lat": 0.0, 
+            "lat": 54.9065,
             "tiploc": "MLLF", 
             "name": "Millfield (T & W Metro)", 
             "crs": "MIF", 
             "toc": "TW", 
-            "lon": 0.0
+            "lon": -1.4009
         }, 
         {
             "lat": 51.0672088909676, 
@@ -21513,12 +21513,12 @@
             "lon": 0.32092084452941283
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.494588, 
             "tiploc": "EPHT", 
             "name": "Elephant & Castle Underground", 
             "crs": "ZEL", 
             "toc": "LT", 
-            "lon": 0.0
+            "lon": -0.0994846
         }, 
         {
             "lat": 51.19733568117289, 
@@ -22433,12 +22433,12 @@
             "lon": -2.9939065375996434
         }, 
         {
-            "lat": 0.0, 
+            "lat": 54.9041, 
             "tiploc": "STHH", 
             "name": "South Hylton (T & W Metro)", 
             "crs": "SHZ", 
             "toc": "TW", 
-            "lon": 0.0
+            "lon":  -1.4481
         }, 
         {
             "lat": 57.51784696267644, 
@@ -23321,12 +23321,12 @@
             "lon": 0.1789360832876712
         }, 
         {
-            "lat": 0.0, 
+            "lat": 50.6394444, 
             "tiploc": "LILLE", 
             "name": "Lille Europe", 
             "crs": "LIU", 
             "toc": "ES", 
-            "lon": 0.0
+            "lon": 3.0763889
         }, 
         {
             "lat": 0.0, 
@@ -23681,12 +23681,12 @@
             "lon": 0.016992641272135154
         }, 
         {
-            "lat": 0.0, 
+            "lat": 51.5100491, 
             "tiploc": "TOWERHL", 
             "name": "Tower Hill Underground", 
             "crs": "ZTH", 
             "toc": "LT", 
-            "lon": 0.0
+            "lon": -0.0765083
         }, 
         {
             "lat": 57.27977120229918, 
