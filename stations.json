@@ -1,6 +1,38 @@
 {
     "locations": [
         {
+            "lat": 0.0,
+            "lon": 0.0,
+            "tiploc": "ILKES",
+            "name": "Ilkeston",
+            "crs": "ILN",
+            "toc": "NT"
+        },
+        {
+            "lat": 0.0,
+            "lon": 0.0,
+            "tiploc": "BCSTSJ",
+            "name": "Bicester South Junction",
+            "crs": "XJV",
+            "toc": "CH"
+        },
+        {
+            "lat": 0.0,
+            "lon": 0.0,
+            "tiploc": "CARLLRJ",
+            "name": "CARLLRJ",
+            "crs": "ZCR",
+            "toc": "VT"
+        },
+        {
+            "lat": 0.0,
+            "lon": 0.0,
+            "tiploc": "WDNPK",
+            "name": "Wimbledon Park",
+            "crs": "WPK",
+            "toc": "LU"
+        },
+        {
             "lat": 52.2427,
             "lon": -0.907905,
             "tiploc": "NMPTNNJ",
