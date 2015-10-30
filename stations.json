@@ -1,6 +1,118 @@
 {
     "locations": [
         {
+            "lat": 0.0,
+            "lon": 0.0,
+            "tiploc": "ALDRSJN",
+            "name": "Aldershot North Junction",
+            "crs": "ZAJ",
+            "toc": "SW"
+        },
+        {
+            "lat": 0.0,
+            "lon": 0.0,
+            "tiploc": "LRDDEAC",
+            "name": "London Road Depot",
+            "crs": "ZLR",
+            "toc": "SW"
+        },
+        {
+            "lat": 0.0,
+            "lon": 0.0,
+            "tiploc": "BRKNIOM",
+            "name": "Birkenhead 12 Quays",
+            "crs": "BKI",
+            "toc": "ME"
+        },
+        {
+            "lat": 0.0,
+            "lon": 0.0,
+            "tiploc": "LILBDGE",
+            "name": "Lillie Bridge Depot LUL",
+            "crs": "ZLB",
+            "toc": "LU"
+        },
+        {
+            "lat": 0.0,
+            "lon": 0.0,
+            "tiploc": "OXFPWAY",
+            "name": "Oxford Parkway",
+            "crs": "OXP",
+            "toc": "CH"
+        },
+        {
+            "lat": 0.0,
+            "lon": 0.0,
+            "tiploc": "GRVSFRY",
+            "name": "Gravesend Town Pier",
+            "crs": "ZGP",
+            "toc": "SE"
+        },
+        {
+            "lat": 0.0,
+            "lon": 0.0,
+            "tiploc": "NTNGMJN",
+            "name": "Mansfield Junction",
+            "crs": "ZMJ",
+            "toc": "EM"
+        },
+        {
+            "lat": 0.0,
+            "lon": 0.0,
+            "tiploc": "PRBRITJ",
+            "name": "Pirbright Junction",
+            "crs": "ZPB",
+            "toc": "SW"
+        },
+        {
+            "lat": 0.0,
+            "lon": 0.0,
+            "tiploc": "BORMRKJ",
+            "name": "Borough Market Junction",
+            "crs": "ZBM",
+            "toc": "SE"
+        },
+        {
+            "lat": 0.0,
+            "lon": 0.0,
+            "tiploc": "SHTLTNL",
+            "name": "Shettleston Loop",
+            "crs": "ZSL",
+            "toc": "SR"
+        },
+        {
+            "lat": 0.0,
+            "lon": 0.0,
+            "tiploc": "ILKES",
+            "name": "Ilkeston",
+            "crs": "ILN",
+            "toc": "NT"
+        },
+        {
+            "lat": 0.0,
+            "lon": 0.0,
+            "tiploc": "BCSTSJ",
+            "name": "Bicester South Junction",
+            "crs": "XJV",
+            "toc": "CH"
+        },
+        {
+            "lat": 0.0,
+            "lon": 0.0,
+            "tiploc": "CARLLRJ",
+            "name": "CARLLRJ",
+            "crs": "ZCR",
+            "toc": "VT"
+        },
+        {
+            "lat": 0.0,
+            "lon": 0.0,
+            "tiploc": "WDNPK",
+            "name": "Wimbledon Park",
+            "crs": "WPK",
+            "toc": "LU"
+        },
+        {
             "lat": 52.2427,
             "lon": -0.907905,
             "tiploc": "NMPTNNJ",
